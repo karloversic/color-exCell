@@ -54,3 +54,4 @@ output_file_name = os.path.join(output_dir, file_name)
 wb.save(output_file_name)
 
 print(f'Radna knjiga je uspješno formatirana i spremljena u: {output_file_name}')
+input('Pritisnite bilo koju tipku za nastavak...')
