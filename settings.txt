@@ -1,0 +1,5 @@
+A=red
+B=blue
+C=yellow
+D=green
+E=white
